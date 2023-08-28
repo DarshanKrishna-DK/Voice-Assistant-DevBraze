@@ -31,7 +31,7 @@ Wikipedia Search: Retrieves information from Wikipedia using wikipedia.<br>
 1)Install the required Python libraries and modules by running:<br>
 pip install pyttsx3 speech_recognition webbrowser pynput pyautogui wikipedia<br>
 2)Clone this repository:<br>
-git clone <repository_url><br>
+git clone https://github.com/DarshanKrishna-DK/Voice-Assistant-DevBraze.git<br>
 3)Run the voice assistant script:<br>
 python voice_assistant.py<br>
 
