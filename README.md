@@ -1,7 +1,7 @@
 <h1>Voice Assistant Project</h1>
 <h3>Description</h3><br>
 This is a Python-based voice assistant project that utilizes various libraries and modules to perform a range of tasks through voice commands. The project makes use of the following Python libraries and modules:
-<br>
+<br><br>
 pyttsx3: For text-to-speech conversion.<br>
 speech_recognition: For speech recognition.<br>
 datetime: For handling date and time operations.<br>
@@ -17,7 +17,7 @@ app: Custom module for project-specific functionality.<br>
 threading.Thread: For multithreading.<br>
 
 <h3>Features</h3><br>
-This voice assistant project is capable of performing the following tasks:<br>
+This voice assistant project is capable of performing the following tasks:<br><br>
 Text-to-Speech: Converts text input into spoken words using pyttsx3.<br>
 Speech Recognition: Recognizes and interprets voice commands using speech_recognition.<br>
 Date and Time: Provides information about the current date and time.<br>
