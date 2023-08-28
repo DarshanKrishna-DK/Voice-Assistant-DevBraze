@@ -2,19 +2,19 @@
 <h3>Description</h3><br>
 This is a Python-based voice assistant project that utilizes various libraries and modules to perform a range of tasks through voice commands. The project makes use of the following Python libraries and modules:
 <br><br>
-pyttsx3: For text-to-speech conversion.<br>
-speech_recognition: For speech recognition.<br>
-datetime: For handling date and time operations.<br>
-time: For adding delays and time-related functions.<br>
-webbrowser: For opening web pages.<br>
-pynput.keyboard: For simulating keyboard input.<br>
-pyautogui: For automating mouse and keyboard tasks.<br>
-sys: For Python interpreter-related functions.<br>
-os: For operating system-dependent functionality.<br>
-smtplib: For sending emails.<br>
-wikipedia: For interacting with Wikipedia.<br>
-app: Custom module for project-specific functionality.<br>
-threading.Thread: For multithreading.<br>
+<b>pyttsx3:</b> For text-to-speech conversion.<br>
+<b>speech_recognition:</b> For speech recognition.<br>
+<b>datetime:</b> For handling date and time operations.<br>
+<b>time:</b> For adding delays and time-related functions.<br>
+<b>webbrowser:</b> For opening web pages.<br>
+<b>pynput.keyboard:</b> For simulating keyboard input.<br>
+<b>pyautogui:</b> For automating mouse and keyboard tasks.<br>
+<b>sys:</b> For Python interpreter-related functions.<br>
+<b>os:</b> For operating system-dependent functionality.<br>
+<b>smtplib:</b> For sending emails.<br>
+<b>ikipedia:</b> For interacting with Wikipedia.<br>
+<b>app:</b> Custom module for project-specific functionality.<br>
+<b>threading.Thread:</b> For multithreading.<br>
 
 <h3>Features</h3><br>
 This voice assistant project is capable of performing the following tasks:<br><br>
